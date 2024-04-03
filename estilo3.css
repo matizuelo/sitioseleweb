@@ -1,0 +1,458 @@
+body{
+    background-color: rgb(0, 21, 112);
+    height: 3000px;
+}
+
+
+.div-container-primero{
+    position: relative;
+    right: -85px;
+    background-color: rgb(255, 255, 124);
+    padding: 0px;
+    width: 90%;
+    border-radius: 60px;
+    border-left: 12px solid rgb(227, 182, 0);
+    border-bottom: 15px solid rgb(227, 182, 0);
+
+
+}
+
+
+#id-seli{
+    position: relative;
+    bottom: -35px;
+    text-align: center;
+    font-size: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(120, 142, 255);
+
+    
+}
+
+
+.div-container-segundo{
+
+}
+
+
+
+.div-container-tercero{
+    position: absolute;
+    bottom: -520px;
+    right: ;
+    background-color: rgb(255, 255, 124);
+    right: 500px;
+    padding: 20px;
+    border-radius: 50px;
+    border-top: 20px solid red;
+    border-bottom: 20px solid green;
+    border-left: 20px solid yellow;
+    border-right: 20px solid hotpink;
+    box-shadow: 0px 0px 30px rgb(255, 0, 170);
+
+}
+
+
+
+#id-selenini{
+    position: absolute;
+    font-size: 50px;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    right: 1270px;
+    bottom: 370px;
+}
+
+
+.div-container-parrafo{
+    position: absolute;
+    bottom: 100px;
+    color: yellow;
+    font-size: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+
+#id-dato{
+    position: absolute;
+    color: rgb(120, 142, 255);
+    bottom: 0px;
+    right: 600px;
+    background-color: rgb(255, 255, 124);
+    width: 150px;
+    text-align: center;
+    border-radius: 13px;
+    border: 3px solid rgb(227, 182, 0);
+}
+
+
+#id-nose{
+    position: absolute;
+    bottom: -130px;
+    right: 110px;
+    color: yellow;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 2px;
+    padding: 10px;
+    border: 3px solid yellow;
+}
+
+
+#id-linksele{
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(120, 142, 255);
+}
+
+
+
+.parrafo{
+    position: relative;
+    right: -120px;
+    border: 3px solid yellow;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+
+
+.img-1{
+    position: absolute;
+    right: -500px;
+    width: 300px;
+    top: -50px;
+    border: 15px groove rgb(227, 182, 0);
+    box-shadow: 4px 5px 18px #000;
+}
+
+
+
+.instagram-container{
+    position: absolute;
+    bottom: -600px;
+    right: 1200px;
+    font-size: 22px;
+    background-color: rgb(255, 255, 124);
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+
+.musica-container-1{
+    position: absolute;
+    bottom: -600px;
+    width: 200px;
+    background-color: rgb(255, 255, 124);
+    height: 50px;
+    border-radius: 50px;
+    right: 965px;
+    text-align: center;
+}
+
+
+
+.musica-container-2{
+    position: absolute;
+    bottom: -600px;
+    width: 200px;
+    background-color: rgb(255, 255, 124);
+    height: 50px;
+    border-radius: 50px;
+    right: 730px;
+    text-align: center;
+}
+
+
+.musica-container-3{
+    position: absolute;
+    bottom: -600px;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    right: 500px;
+    text-align: center;
+    background-color: rgb(255, 255, 124);
+}
+
+
+.instagram{
+    position: absolute;
+    text-decoration: none;
+    text-align: center;
+    top: 11px;
+    right: 22px;
+    color: #000;
+}
+
+
+.musica-1{
+    position: absolute;
+    text-decoration: none;
+    color: #000;
+    font-size: 22px;  
+    left: 40px; 
+    top: 11px; 
+}
+
+
+.musica-2{
+    position: absolute;
+    text-decoration: none;
+    color: #000;
+    font-size: 22px;
+    left: 20px;
+    right: 20px;
+    top: 11px
+    
+}
+
+.musica-3{
+    position: absolute;
+    text-decoration: none;
+    color: #000;
+    font-size: 22px;
+    left: 20px;
+    right: 20px;
+    top: 11px;
+}
+
+
+.img-2{
+    position: absolute;
+    width: 200px;
+    bottom: -800px;
+    right: 850px;
+    border-radius: 70px;
+    box-shadow: 0px 0px 15px #000;
+}
+
+
+.instagram-container:hover{
+    background-color: rgb(227, 182, 0);
+    cursor: pointer;
+    transition: 0.5s;
+    box-shadow: 0px 0px 20px rgb(0, 255, 255);
+}
+
+
+.musica-container-1:hover{
+    background-color: rgb(227, 182, 0);
+    cursor: pointer;
+    transition: 0.5s;
+    box-shadow: 0px 0px 20px rgb(0, 255, 255);
+}
+
+
+.musica-container-2:hover{
+    background-color: rgb(227, 182, 0);
+    cursor: pointer;
+    transition: 0.5s;
+    box-shadow: 0px 0px 20px rgb(0, 255, 255);
+}
+
+
+.musica-container-3:hover{
+    background-color: rgb(227, 182, 0);
+    cursor: pointer;
+    transition: 0.5s;
+    box-shadow: 0px 0px 20px rgb(0, 255, 255);
+}
+
+
+.dato-2{
+    position: absolute;
+    color: rgb(120, 142, 255);
+    bottom: -920px;
+    font-size: 45px;
+    right: 1500px;
+    background-color: rgb(255, 255, 124);
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    border-radius: 20px;
+    border-left: 3px solid rgb(0, 225, 255);
+    border-top: 3px solid red;
+    border-bottom: 3px solid rgb(0, 255, 106);
+    border-right: 3px solid hotpink;
+}
+
+
+
+
+
+.p{
+    position: absolute;
+    bottom: -1150px;
+    font-size: 30px;
+    color: yellow;
+    text-align: center;
+    border: 4px solid rgb(251, 255, 0);
+    margin: 10px;
+    padding: 10px;
+}
+
+.in-flex{
+    flex-wrap: wrap;
+}
+
+
+.parrafo:hover{
+    background-color: rgb(0, 157, 255);
+    color: #000;
+    box-shadow: 0px 0px 30px yellow;
+    transition: 0.5s;
+}
+
+
+#id-nose:hover{
+    border-radius: 40px;
+    transition: 0.5s;
+    box-shadow: 0px 0px 20px yellow;
+   
+}
+
+
+.p:hover{
+    border-radius: 50px;
+    box-shadow: 0px 0px 22px yellow;
+    transition: 0.5s;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container-formulario{
+    margin: auto;
+    position: relative;    
+    bottom: -1900px;
+    background-color: rgb(0, 21, 112);
+    width: 500px;
+    height: 600px;
+    border: 4px solid yellow;
+    box-shadow: 0px 0px 50px yellow;
+}
+
+
+.casamiento{
+    position: relative;
+    bottom: -40px;
+    font-family: sans-serif;
+    color: yellow;
+    text-align: center;
+    text-shadow: 0px 0px 5px yellow;
+    
+
+}
+
+
+.container-formulario:hover{
+    box-shadow: 0px 0px 50px red;
+    border: 5px solid red;
+}
+
+
+
+
+.input-10{
+    position: relative;
+    bottom: -90px;
+    right: -100px;
+    height: 40px;
+    outline: none;
+    width: 300px;
+    font-size: 25px;
+    border: 0;
+    background-color: rgb(0, 21, 112);
+    color: #fff;
+}
+
+
+
+.input-20{
+    position: relative;
+    bottom: -150px;
+    right: -100px;
+    height: 40px;
+    width: 300px;
+    outline: none;
+    font-size: 25px;
+    border: 0;
+    background-color: rgb(0, 21, 112);
+    color: #fff;
+    
+}
+
+
+
+.input-30{
+    position: relative;
+    bottom: -210px;
+    width: 300px;
+    right: -100px;
+    height: 40px;
+    outline: none;
+    font-size: 25px;
+    border: 0;
+    background-color: rgb(0, 21, 112);
+    color: #fff;
+}
+
+
+
+.input-40{
+    position: relative;
+    bottom: -300px;
+    width: 150px;
+    left: -130px;
+    height: 30px;
+    border-radius: 50px;
+    border: 0;
+    background-color: yellow;
+}
+
+
+
+.input-10:focus{
+
+    border-bottom: 2px solid yellow;
+    color: #fff;
+}
+
+
+
+.input-20:focus{
+
+    border-bottom: 2px solid yellow;
+    color: #fff;
+}
+
+
+.input-30:focus{
+    border-bottom: 2px solid yellow;
+    color: #fff;
+}
+
+
+.input-40:hover{
+    background-color: rgb(232, 232, 0);
+    box-shadow: 0px 0px 5px yellow;
+}
+
+
